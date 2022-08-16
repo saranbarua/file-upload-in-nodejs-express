@@ -14,7 +14,7 @@
   "author": "Saran Barua",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saranbarua/file-upload-in-nodejs-express/issues"
+    "url": "https://github.com/saranbarua/file-upload-in-nodejs-express.git"
   },
   "homepage": "https://github.com/saranbarua/file-upload-in-nodejs-express#readme",
   "dependencies": {
